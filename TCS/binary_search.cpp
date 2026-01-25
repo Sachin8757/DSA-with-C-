@@ -25,7 +25,7 @@ int binary_search(vector<int>& nums, int tar, int st, int ed) {
 
 int main(){
     vector<int>nums={1,2,3,4,5,6,7};
-    int target=50;
+    int target=5;
 
     cout<<binary_search(nums,target,0,nums.size()-1)<<endl;
     return 0;
