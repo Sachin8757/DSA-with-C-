@@ -17,6 +17,7 @@ int main(){
     // vector<int>nums={5, -2, 3, 4};
     // vector<int>nums={-1, -1, -1, -1};
     vector<int>nums={1, -2, 0, 3};
+    // vector<int>nums={-2,1,-3,4,-1,2,1,-5,4};
 
     int maxsum=nums[0];
     int currsum=nums[0];
